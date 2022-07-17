@@ -1,0 +1,14 @@
+rm MSQ_HMI
+rm MSQ_SPEECH_SERVICE
+rm MSQ_MEDIA_SERVICE
+rm MSQ_TTS_SERVICE
+rm MSQ_AUDIO_SERVICE
+rm MSQ_WATCHDOG
+rm SHM_MEDIA_TYPE_CONTENT_LIST
+rm SHM_MEDIA_SONG_LIST
+rm tts
+rm audio
+rm sender
+rm receiver
+rm media
+rm -rf voice
